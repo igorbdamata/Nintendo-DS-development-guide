@@ -1,3 +1,5 @@
 # Guia de desenvolvimento para Nintendo DS
 ## Sobre
-Isso é uma documentação open source que ensina como fazer jogos para Nintendo DS usando a biblioteca libnds com C++. O objetivo disso é ter uma fonte para aprender, que não esteja datada e não precise de conhecimentos prévios sobre o hardware do Nintendo DS.
+Está é uma documentação open source que tem como objetivo ensinar o leitor a fazer jogos para Nintendo DS usando libnds com C++. Nosso objetivo é facilitar o aprendizado usando uma documentação atualizada e exemplos claros.
+Essa documentação possui alguns pré requisitos, leia a seção **Pré requisitos** para mais detalhes. Também é possível colaborar com essa documentação, leia **Como colaborar** para mais detalhes.
+Essa documentação possui duas seções principais. **Aprendizado** e **Mecânicas rápidas**. A seção aprendizado é usada para aprender tudo sobre o Nintendo DS de forma detalhada. Já a seção de mecânicas rápidas é usada para ensinar como fazer uma mecânica específica, sem a necessidade de prévios sobre a bibliteca (ex: como colocar uma imagem na tela). Os conhecimentos prévios que seriam necessários na seção de mecânicas rápidas serão explicados de modo breve, e de modo que atenda apenas as necessidades para aquela mecânica.
