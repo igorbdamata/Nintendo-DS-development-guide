@@ -1,4 +1,4 @@
-#Nintendo DS development guide#
-##Select the language/Selecione o idioma##
-[English](https://github.com/igorbdamata/Nintendo-DS-development-guide/EnglishGuide/README.MD)
-[Português](https://github.com/igorbdamata/Nintendo-DS-development-guide/PortugueseGuide/README.MD)
+# Nintendo DS development guide <h1>
+## Select the language/Selecione o idioma >h2>
+[English](https://github.com/igorbdamata/Nintendo-DS-development-guide/tree/main/EnglishGuide#readme)
+[Português](https://github.com/igorbdamata/Nintendo-DS-development-guide/tree/main/PortugueseGuide#readme)
