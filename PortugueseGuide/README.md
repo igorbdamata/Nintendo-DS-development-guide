@@ -10,22 +10,22 @@ Essa documentação possui alguns pré requisitos, leia a seção **Pré requisi
   Para entender os códigos dessa documentação, é necessário saber programar e ter conhecimentos sobre a linguagem de programação C++. Isso inclui principalmente a lógica de programação em C++ e como usar pointers. Caso você não saiba programar, é recomendado que você procure por tutoriais que expliquem por onde você deve começar e quais são as melhores ferramentas para você. E caso você saiba programar, mas não saiba C++, você também pode aprender por meio de tutoriais na internet.
 
 ## Aprendizado
-*Configurando o ambiente
-*Loop infinito
-*Gráficos
-*Textos
-*Controles
-*Sons
-*Entendendo e configurando o make file
+* Configurando o ambiente
+* Loop infinito
+* Gráficos
+* Textos
+* Controles
+* Sons
+* Entendendo e configurando o make file
 
 ## Mecânicas e informações rápidas
-*Como mostrar uma imagem na tela
-*Como carregar um background
-*O que é o OAM
-*O que é DMA
-*O que é o GRIT
-*Como rodar um som
-*Como rodar uma música
-*Como colocar texto na tela
+* Como mostrar uma imagem na tela
+* Como carregar um background
+* O que é o OAM
+* O que é DMA
+* O que é o GRIT
+* Como rodar um som
+* Como rodar uma música
+* Como colocar texto na tela
 
 ## Como colaborar
