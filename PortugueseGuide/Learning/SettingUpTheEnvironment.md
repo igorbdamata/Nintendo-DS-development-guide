@@ -20,3 +20,9 @@ O primeiro passo para baixar o libnds é baixar o updater do DevKitPro. Ele nos 
 9. Esperar
 10. Depois de instalar, aparecerá a opção “Next”
 11. E ao clicar em “Next” aparece um menu que você pode escolher doar para devkitpro ou só finalizar mesmo
+
+## Referências:
+
+https://devkitpro.org/wiki/Getting_Started
+
+https://www.patater.com/files/projects/manual/manual.html#id2543786
