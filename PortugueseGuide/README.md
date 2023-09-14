@@ -13,7 +13,7 @@ Essa documentação possui alguns pré requisitos, leia a seção **Pré requisi
 * É legalizado fazer jogos para Nintendo DS (Homebrews)?
 * [Configurando o ambiente](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/SettingUpTheEnvironment.md)
 * [Loop infinito](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/InfiniteLoop/InfiniteLoop.md)
-* Gráficos
+* [Gráficos](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/Graphics/Graphics.md)
 * Textos
 * Controles
 * Sons
