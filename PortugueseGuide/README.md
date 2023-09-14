@@ -29,4 +29,20 @@ Essa documentação possui alguns pré requisitos, leia a seção **Pré requisi
 * Como rodar uma música
 * Como colocar texto na tela
 
+# Colaboração
+## Regras
+Essas regras devem ser seguidas para que um commit seja aprovado.
+* Ser respeitoso no seu texto: Não usar linguagens pesadas, tóxicas e ou ofensiva.
+* Não colocar referências à política ou religião.
+* Não colocar conteúdos para maiores de idade, como nudez e violência.
+* Não refazer do zero algo escrito por outra pessoa. Caso você queira colaborar em algum texto pronto, apenas revise-o. (ps: essa regra não se aplica para textos que estejam mais de 50% datados)
+* Texto deve estar objetivo, claro e coeso. Basicamente, evite palavras difíceis e releia seu texto após escrever.
+* Texto deve conter todas as referências bibliográficas caso alguma pesquisa tenha sido necessária.
+* Textos gerados por IAs são permitidos desde que sigam as outras regras.
+  
 ## Como colaborar
+Caso queira colaborar, você primeiramente deve ler as regras para saber como o texto deve ser. Depois precisa escolher algo para fazer e  avisar por meio de um issue. É importante que essa tarefa seja curta, geralmente envolvendo apenas um arquivo. Por exemplo, ao invés de escolher "Traduzir documentação para espanhol", escolha "Traduzir seção de instalação para espanhol". Desse modo outras pessaos também poderão contribuir com pequenas tarefas nessa mesma tarefa grande, o que aumenta a eficiência.
+Depois que a tarefa estiver pronta, você pode simplesmente fazer um pull request nesse repositório. 
+  
+## Maneiras de colaborar
+Você pode colaborar de qualquer maneira que queira. Por exemplo, você pode traduzir alguma seção, adicionar novas seções com base em algo que aprendeu, adicionar alguma mecânica rápida, atualizar alguma informação que ficou datada, corrigir erros de português, adicionar imagens, etc. É importante apenas que você siga as regras.
