@@ -41,8 +41,11 @@ Essas regras devem ser seguidas para que um commit seja aprovado.
 * Textos gerados por IAs são permitidos desde que sigam as outras regras.
   
 ## Como colaborar
-Caso queira colaborar, você primeiramente deve ler as regras para saber como o texto deve ser. Depois precisa escolher algo para fazer e  avisar por meio de um issue. É importante que essa tarefa seja curta, geralmente envolvendo apenas um arquivo. Por exemplo, ao invés de escolher "Traduzir documentação para espanhol", escolha "Traduzir seção de instalação para espanhol". Desse modo outras pessaos também poderão contribuir com pequenas tarefas nessa mesma tarefa grande, o que aumenta a eficiência.
-Depois que a tarefa estiver pronta, você pode simplesmente fazer um pull request nesse repositório. 
+* Caso você queira apenas dar uma sugestão, você pode abrir um issue ou então fazer um pull request na seção [Para fazer](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/PortugueseToDo)
+* Caso queira colaborar, você primeiramente deve ler as regras para saber como o texto deve ser.
+* Depois precisa escolher alguma tarefa. Caso você não saiba o que fazer, você pode checar a seção [Para fazer](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/PortugueseToDo). É importante que essa tarefa seja curta, geralmente envolvendo apenas um arquivo. Por exemplo, ao invés de escolher "Traduzir documentação para espanhol", escolha "Traduzir seção de instalação para espanhol". Desse modo outras pessaos também poderão contribuir com pequenas tarefas nessa mesma tarefa grande, o que aumenta a eficiência.
+*  Depois de escolher a tarefa, você deve avisar que está trabalhando nela por meio de um issue
+*  Depois que a tarefa estiver pronta, você pode simplesmente fazer um pull request nesse repositório. 
   
 ## Maneiras de colaborar
 Você pode colaborar de qualquer maneira que queira. Por exemplo, você pode traduzir alguma seção, adicionar novas seções com base em algo que aprendeu, adicionar alguma mecânica rápida, atualizar alguma informação que ficou datada, corrigir erros de português, adicionar imagens, etc. É importante apenas que você siga as regras.
