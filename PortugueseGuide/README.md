@@ -15,7 +15,7 @@ Essa documentação possui alguns pré requisitos, leia a seção **Pré requisi
 * [Loop infinito](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/InfiniteLoop/InfiniteLoop.md)
 * [Gráficos](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/Graphics/Graphics.md)
 * Textos
-* Controles
+* [Controles](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/Inputs.md)
 * Sons
 * Entendendo e configurando o make file
 
