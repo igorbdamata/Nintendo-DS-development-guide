@@ -7,12 +7,12 @@ Quando nós atribuimos uma função à um banco, estamos na verdade dizendo qual
 
 Contudo, nós não temos total liberdade de definir o uso de cada banco, por exemplo, o banco B não pode ser usado para sprites da tela debaixo. Para não ser necessário decorar as configurações possíveis, existe esse site: [https://mtheall.com/banks.html](https://mtheall.com/banks.html). Ele nos permite escolher o que fazer com cada banco, sem criar configurações impossíveis ou conflitos - como usar dois bancos para uma mesma função, já que eles teriam o mesmo endereço -. 
 
-![](VRAMSitePrint.png)
+![](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/Graphics/Prints/VRAMSitePrint.png)
 
 Para usar é bem simples, basta escolher um uso possível para o banco e selecioná-lo ao apertar o circulo. Só uma coisa, o programa chama a memória dedicada aos sprites de “OBJ VRAM”
 
 Outra coisa, no canto superior direito, o programa também nos da o código que configura os bancos. Caso queira, pode só copiar e colar ele. Apesar disso, nós iremos programá-lo por conta própria para entendê-los.
-![](PrintWithVRAMCodeSelected.jpg)
+![](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/Graphics/Prints/PrintWithVRAMCodeSelected.jpg)
 ## Como configurar a memória de video
 Para escolher uma configuração de bancos, é necessário saber como precisaremos usar a memória. Vamos supor que nosso objetivo é renderizar um sprite e um background em cada tela. Para isso, precisaremos escolher um banco para cada uma dessas coisas. 
 
