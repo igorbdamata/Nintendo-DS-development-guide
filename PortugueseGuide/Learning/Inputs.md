@@ -71,4 +71,3 @@ if(touch.py > SCREEN_HEIGHT/2)
 }
 
 ```
-O código acima checa em qual metade da tela de baixo o toque está.
