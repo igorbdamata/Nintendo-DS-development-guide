@@ -21,6 +21,12 @@ O primeiro passo para baixar o libnds é baixar o updater do DevKitPro. Ele nos 
 10. Depois de instalar, aparecerá a opção “Next”
 11. E ao clicar em “Next” aparece um menu que você pode escolher doar para devkitpro ou só finalizar mesmo
 
+## Como configurar o Visual Studio 2022
+## Como inicializar o Nintendo DS
+## Como gerar a ROM
+
+
+
 ## Referências:
 
 https://devkitpro.org/wiki/Getting_Started
