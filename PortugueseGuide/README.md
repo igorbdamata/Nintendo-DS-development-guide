@@ -38,7 +38,7 @@ Essas regras devem ser seguidas para que um commit seja aprovado.
 * Não refazer do zero algo escrito por outra pessoa. Caso você queira colaborar em algum texto pronto, apenas revise-o. (ps: essa regra não se aplica para textos que estejam mais de 50% datados)
 * Texto deve estar objetivo, claro e coeso. Basicamente, evite palavras difíceis e releia seu texto após escrever.
 * Texto deve conter todas as referências bibliográficas caso alguma pesquisa tenha sido necessária.
-* Textos gerados por IAs são permitidos desde que sigam as outras regras.
+* Textos gerados por IAs são permitidos desde que sigam as outras regras e que seja especificado (no próprio arquivo) que ele foi gerado  por IAs (seja totalmente ou parcialmente)
   
 ## Como colaborar
 * Caso você queira apenas dar uma sugestão, você pode abrir um issue ou então fazer um pull request na seção [Para fazer](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/PortugueseToDo.md)
