@@ -45,9 +45,9 @@ Por isso, para escolher um map base, eu recomendo usar a ferramenta: https://mth
 
 Voltando para a inicialização do background, nós usaremos a ferramenta para facilitar a escolha do map base.
 
-![](PrintMapBaseError.PNG)
+![](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/Graphics/Prints/PrintMapBaseError.PNG)
 Na imagem acima, eu tentei carregar dois background (nas layers 2 e 3), de tamanho 256x256 cada, no mesmo map base. Isso fez com que ocorresse um erro.
-![](PrintMapBaseWorking.PNG)
+![](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/Graphics/Prints/PrintMapBaseWorking.PNG)
 Já na imagem acima, ao mudar o map base, o conflito se resolveu.
 
 Para a tela debaixo, como vamos renderizar só um background, nós não precisaremos nos preocupar com o map base. Com base nisso, o código ficará assim:
