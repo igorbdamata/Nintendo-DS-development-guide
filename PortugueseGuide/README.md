@@ -10,7 +10,7 @@ Essa documentação possui alguns pré requisitos, leia a seção **Pré requisi
   Para entender os códigos dessa documentação, é necessário saber programar e ter conhecimentos sobre a linguagem de programação C++. Isso inclui principalmente a lógica de programação em C++ e como usar pointers. Caso você não saiba programar, é recomendado que você procure por tutoriais que expliquem por onde você deve começar e quais são as melhores ferramentas para você. E caso você saiba programar, mas não saiba C++, você também pode aprender por meio de tutoriais na internet.
 
 ## Aprendizado
-* É legalizado fazer jogos para Nintendo DS (Homebrews)?
+* [É legalizado fazer jogos para Nintendo DS (Homebrews)?](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/IsItLegalToDevelopGamesForNDS(Homebrews).md)
 * [Configurando o ambiente](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/SettingUpTheEnvironment.md)
 * [Loop infinito](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/InfiniteLoop/InfiniteLoop.md)
 * [Gráficos](https://github.com/igorbdamata/Nintendo-DS-development-guide/blob/main/PortugueseGuide/Learning/Graphics/Graphics.md)
